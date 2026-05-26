@@ -70,7 +70,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-xs sm:text-sm font-medium text-foreground/60 mb-8"
         >
           <Swords className="w-4 h-4 text-baddie-pink" />
-          <span>The Ultimate Political Showdown of 2025</span>
+          <span>The Ultimate Political Showdown of 2026</span>
           <Zap className="w-4 h-4 text-bhabhi-orange" />
         </motion.div>
 
